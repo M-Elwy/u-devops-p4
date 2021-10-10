@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![M-Elwy](https://circleci.com/gh/M-Elwy/udacity-devops-project4.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
