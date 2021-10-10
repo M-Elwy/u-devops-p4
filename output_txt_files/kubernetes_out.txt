@@ -1,1 +1,4 @@
-<paste log output from Kubernetes-mediated prediction, here>
+deployment.apps/elwy-ml created
+NAME                       READY   STATUS              RESTARTS   AGE
+elwy-ml-56495f8b4c-bfqwj   0/1     ContainerCreating   0          0s
+service/elwy-ml exposed
